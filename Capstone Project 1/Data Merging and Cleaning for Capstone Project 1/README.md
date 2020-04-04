@@ -1,2 +1,0 @@
-# Data Merging and Cleaning for Capstone Project 1
-This directory has an IPython notebook which merges the datasets used in this project and cleans the final dataset, in terms of fixing missing values, deleting unuseful columns, and modifying and separating existing columns. The output file obtained by running the Capstone Project 1 Dataset - Final.ipynb notebook can be used for exploring the data and later for modeling. The data wrangling report details the steps taken to merge the datasets and clean the final dataset.
