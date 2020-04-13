@@ -7,4 +7,4 @@ manufacturers-1562662522.csv - This file contains data concerning the manufactur
 
 events-1562662544.csv - This file contains data pertaining to the events the reported devices were involved in.
 
-df_final.csv - This file contains the merged and cleaned dataset that will be explored and analyzed for the purposes of the project
+df_final.csv - This file contains the dataset merged from devices-1562662526.csv, manufacturers-1562662522.csv, and events-1562662544.csv and cleaned for data exploration and analysis for the project
