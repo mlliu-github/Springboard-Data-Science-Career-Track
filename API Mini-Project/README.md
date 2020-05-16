@@ -1,1 +1,2 @@
-
+# API Mini-Project
+This exercise pulled some data from the Qunadl API with Qaundl currently being the most widely used aggregator of financial market data. This mini project focuses on the equities data from the Frankfurt Stock Exhange (FSE) and the analysis of the stock prices of a company called Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery: https://www.zeiss.com/meditec/int/home.html. The company is listed under the stock ticker AFX_X.
