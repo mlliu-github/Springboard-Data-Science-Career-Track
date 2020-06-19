@@ -1,0 +1,2 @@
+# Take-Home Challenge: Ultimate Technologies Inc.
+Ultimate Technologies Inc. is an American worldwide online transportation network company that has disrupted the taxi and logistics industry and is a prestigious company to work at. This challenge has been adapted from an actual Ultimate Inc. data science challenge. In other words, this exercise is an example of a take-home assignment a company may send to data science candidates as part of the interview process.
