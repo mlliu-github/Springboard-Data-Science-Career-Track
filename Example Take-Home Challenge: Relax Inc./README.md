@@ -1,0 +1,2 @@
+# Example Take-Home Challenge: Relax Inc.
+Relax Inc. makes productivity and project management software that's popular with both individuals and teams. Founded by several former Facebook employees, it's considered a great company to work at. This exercise is an example of this company's take-home assignment to potential data science candidates as part of its interview process.
