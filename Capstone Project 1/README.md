@@ -4,3 +4,5 @@ Medical devices are known to save, extend, or made better millions of lives. How
 The International Medical Devices Database will be used for analysis in this project. It is licensed under the Open Database License and its contents under Creative Commons Attribution-ShareAlike license. It is also available for download by the link: https://medicaldevices.icij.org/p/download.
 
 The results of this project can help medical practitioners make better decisions on which medical devices to use with the most minimization of risks as well as patients to be better informed on which medical devices they want to receive. Also, this project can give indications to manufacturers on how to better design medical devices with reduction to injury and mortality.
+
+The F1 score of the NLP prediction model was calculated to be about 0.96
